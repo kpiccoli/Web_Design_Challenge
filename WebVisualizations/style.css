@@ -1,0 +1,44 @@
+.navbar{
+    background-color: white;
+    font-size: 20px;
+    max-height: 60px;
+}
+
+.navbar-brand{
+   background: #0BADA6;
+   color: white;
+   font-size: 20;
+   margin-left: 30px;
+   padding: inherit;
+   font-weight: bold;
+   font-family: 'Times New Roman';
+}
+
+body{
+    background-color: #ededed;
+}
+
+.box {
+    margin-top: 60px; 
+    margin-bottom: 62px; 
+    padding: 10px 20px 15px; 
+    color:black;
+    background-color: white; 
+  }
+
+p{
+    color: #6D8092;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px; 
+   }
+
+img{
+    width:100% !important;
+    height:100% !important;
+}
+
+}
+.vizualization{
+    width:50% !important;
+    height:50% !important;
+}
